@@ -4,8 +4,8 @@
 
 
 Social Media
-<devops> [Link](https://www.twitter.com/reviveddev)
-<reeko> [Link](https://www.twitter.com/mrreekotv)
+<devops> <a href="https://www.twitter.com/reviveddev"></a>
+<reeko> <a href="https://www.twitter.com/mrreekotv"></a>
   
 Join Our offical discord server
 [Link](https://discord.gg/4uekthy)
@@ -17,7 +17,7 @@ Active Projects
 
 
 ### Geared Injector
-- Download: [Link](https://drive.google.com/open?id=1ufHBrBoZKnTKUP9SPPxDELzGpis_nTKP)
+- Download: <a href="https://drive.google.com/open?id=1ufHBrBoZKnTKUP9SPPxDELzGpis_nTKP"></a>
 
 # How to use Geared Injector
 ```
