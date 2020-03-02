@@ -29,4 +29,4 @@ same process to unload, just press unload module.
 ```
 Example Image
 
-[Image](https://imgur.com/5ju6zE4)
+<img src="https://imgur.com/5ju6zE4"></img>
